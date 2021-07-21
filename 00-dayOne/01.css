@@ -1,0 +1,21 @@
+.wrap {
+  border: solid black thick;
+  border-radius: 10%;
+  background-color: grey;
+}
+
+h1 {
+  color: lightgreen;
+  text-align: center;
+}
+
+h3 {
+  color: blue;
+}
+
+p {
+  color: red;
+}
+
+.first {
+}
