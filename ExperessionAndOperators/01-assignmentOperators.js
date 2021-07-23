@@ -20,7 +20,7 @@ console.log(r);
 r /= 1; // r = r / 1
 console.log(r);
 
-// Exponential Assignment
+// Exponential Assignment (Look up and research)
 r **= 3; // r = r * r
 console.log(r);
 
